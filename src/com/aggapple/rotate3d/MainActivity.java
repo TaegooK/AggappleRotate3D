@@ -9,13 +9,13 @@ import android.view.animation.Animation.AnimationListener;
 import android.widget.ViewSwitcher;
 
 /**
- * @author 		aggapple
- * @e_mail		aggapple@gmail.com
- * @homepage 	http://www.aggapple.com
- * @blog 		http://aggapple.tistory.com
- * @github 		http://github.com/aggapple
- * @date		2014. 2. 17.
- *
+ * @author aggapple
+ * @email_ aggapple@gmail.com
+ * @home__ http://www.aggapple.com
+ * @blog__ http://aggapple.tistory.com
+ * @github http://github.com/aggapple
+ * @date__ 2014. 2. 17.
+ * 
  */
 public class MainActivity extends Activity {
 	private ViewSwitcher mSwitcher;
