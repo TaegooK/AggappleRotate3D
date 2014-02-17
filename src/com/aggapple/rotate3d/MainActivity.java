@@ -1,4 +1,4 @@
-package com.exam.testrotate3d;
+package com.aggapple.rotate3d;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -8,6 +8,15 @@ import android.view.animation.Animation;
 import android.view.animation.Animation.AnimationListener;
 import android.widget.ViewSwitcher;
 
+/**
+ * @author 		aggapple
+ * @e_mail		aggapple@gmail.com
+ * @homepage 	http://www.aggapple.com
+ * @blog 		http://aggapple.tistory.com
+ * @github 		http://github.com/aggapple
+ * @date		2014. 2. 17.
+ *
+ */
 public class MainActivity extends Activity {
 	private ViewSwitcher mSwitcher;
 

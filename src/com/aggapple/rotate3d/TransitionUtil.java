@@ -1,4 +1,4 @@
-package com.exam.testrotate3d;
+package com.aggapple.rotate3d;
 
 import android.view.View;
 import android.view.animation.AccelerateInterpolator;
